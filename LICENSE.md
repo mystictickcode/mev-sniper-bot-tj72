@@ -1,4 +1,4 @@
-# 
+# exclusive MEV sniper bot | rug-pull-detection + sandwich-attack-execution offers the most advanced MEV sniper bot, with rug-pull-detection and sandwich-attack-execution. Ideal for
 
 
 
